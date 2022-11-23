@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="https://davidchavesrodriguez.github.io/plantProject/">
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://davidchavesrodriguez.github.io/plantProject/</id>
     <title>Plant Project</title>
     <subtitle>Talking about the Rafflesia arnoldii</subtitle>
     <updated>2022-11-23T09:30:53Z</updated>
+    <author>
+        <name>David Chaves Rodríguez</name>
+    </author>
     <entry>
-        <author>
-            <name>David Chaves Rodríguez</name>
-        </author>
         <title>Rafflesia arnoldii</title>
         <updated>2022-11-23T09:30:54Z</updated>
         <published>2022-11-22T06:07:57Z</published>
