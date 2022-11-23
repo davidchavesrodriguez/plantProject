@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
-    <channel>
-        <title>Plant Project</title>
-        <description>Beautiful art gallery about a great plant</description>
-        <link>https://davidchavesrodriguez.github.io/plantProject/</link>
-        <pubDate>Wed, 23 Nov 2022 9:30:25 GMT</pubDate>
-        <managingEditor>A22DavidCR@iessanclemente.net (David Chaves Rodríguez)</managingEditor>
-        <item>
-            <title>Rafflesia arnoldii</title>
-            <link>https://davidchavesrodriguez.github.io/plantProject/plant.html</link>
-            <pubDate>Wed, 23 Nov 2022 9:35:02 GMT</pubDate>
-            <description>A really famous and beautiful plant :)</description>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="https://davidchavesrodriguez.github.io/plantProject/">
+    <title>Plant Project</title>
+    <subtitle>Talking about the Rafflesia arnoldii</subtitle>
+    <updated>2022-11-23T09:30:53Z</updated>
+    <entry>
+        <author>
+            <name>David Chaves Rodríguez</name>
+        </author>
+        <title>Rafflesia arnoldii</title>
+        <updated>2022-11-23T09:30:54Z</updated>
+        <published>2022-11-22T06:07:57Z</published>
+    </entry>
+</feed>
